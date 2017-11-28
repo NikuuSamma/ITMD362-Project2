@@ -40,12 +40,19 @@
         <p>You are Currently Signed in</p>
       </span>
     </div>
-    <div id='content'
+    <div id='content'>
       <div id ='Welcome' class='pages'>
-        <h1>Test</h1>
+        <h1>IIT Welcome Page</h1>
       </div>
        <div id ='Academics' class='pages'>
-        <h1>Test2</h1>
+        <div id="regrsitration">
+					<h1>Regrsitration Tools</h1>
+						<p><a href="images/RegistrationStatus.png">Registration Status</a></p>
+						<p><a href="images/LooUpClasses.png">Look Up Classes</a></p>
+						<p><a href="images/AddDropClasses.png">Add or Drop Classes</a></p>
+						<p><a href="images/ChangeClassOptions.png">Change Class Options</a></p>
+						<p><a href="images/WeekAtGlance.png">Week at a Glance</a></p>
+					</div>
       </div>
     </div>
   </body>

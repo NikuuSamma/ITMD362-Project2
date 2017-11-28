@@ -80,7 +80,31 @@ span a
 {
   margin-left: 100px;
   margin-top: 50px;
-  border: 1px solid black;
+}
+
+#regrsitration
+{
+  border: solid;
+  border-width: 1px;
+	width: 300px;
+  margin: 0 auto;
+}
+
+#regrsitration p
+{
+  padding: 5px;
+}
+	
+#regrsitration h1
+{
+  background-color: #ccc;
+  border-top: 1px solid #999;
+  border-right: 1px solid #999;
+  border-left: 1px solid #999;
+  font-weight: bold;
+  color: black;
+  margin: 0;
+  margin-bottom: 10px;
 }
 
 @media screen and (max-height: 450px) 
