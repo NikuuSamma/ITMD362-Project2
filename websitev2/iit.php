@@ -45,14 +45,21 @@
         <h1>IIT Welcome Page</h1>
       </div>
        <div id ='Academics' class='pages'>
-        <div id="regrsitration">
-					<h1>Regrsitration Tools</h1>
-						<p><a href="images/RegistrationStatus.png">Registration Status</a></p>
-						<p><a href="images/LooUpClasses.png">Look Up Classes</a></p>
-						<p><a href="images/AddDropClasses.png">Add or Drop Classes</a></p>
-						<p><a href="images/ChangeClassOptions.png">Change Class Options</a></p>
-						<p><a href="images/WeekAtGlance.png">Week at a Glance</a></p>
+         <div id='profile'>
+            <img src="img/Academics_AcademicProfile.png" alt="AcademicProfile">
+          </div>
+          <div id="regrsitration">
+            <h1>Regrsitration Tools</h1>
+						<p><a href="img/RegistrationStatus.png">Registration Status</a></p>
+						<p><a href="img/LooUpClasses.png">Look Up Classes</a></p>
+						<p><a href="img/AddDropClasses.png">Add or Drop Classes</a></p>
+						<p><a href="img/ChangeClassOptions.png">Change Class Options</a></p>
+						<p><a href="img/WeekAtGlance.png">Week at a Glance</a></p>
 					</div>
+          <div class="banner">
+							<img src="img/Academics_Banner.png" alt="Academic_Banner">		
+						</div>
+        </div>
       </div>
     </div>
   </body>

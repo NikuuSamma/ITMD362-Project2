@@ -82,13 +82,40 @@ span a
   margin-top: 50px;
 }
 
-#regrsitration
+#Academics
 {
-  border: solid;
-  border-width: 1px;
-	width: 300px;
+  
+  overflow: hidden;
   margin: 0 auto;
 }
+
+#profile
+{
+  position: relative;
+  margin-top: -10px;
+  margin-right: 150px;
+  width: 25%;
+  float: left;
+}
+
+#regrsitration
+{
+  float: left;
+  position: relative;
+  border: solid;
+  border-width: 1px;
+	width: 25%;
+  margin-right: 75px;
+}
+
+#banner
+{
+  float: left;
+  position: relative;
+  margin-top: -10px;
+  width: 25%;
+}
+  
 
 #regrsitration p
 {
